@@ -40,8 +40,8 @@
   #reset-btn {
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #1b0ade;
-    color: #e610c6;
+    background-color: #de620a;
+    color: #1d097f;
     border-radius: 1rem;
     border: none;
   }
@@ -50,13 +50,13 @@
     padding: 1rem;
     font-size: 1.25rem;
     background-color: #d40c19;
-    color: #1ee539;
+    color: #060528;
     border-radius: 1rem;
     border: none;
   }
   
   #msg {
-    color: #3914a8;
+    color: #18f749;
     font-size: 5vmin;
   }
   
